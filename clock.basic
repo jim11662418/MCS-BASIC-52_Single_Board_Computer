@@ -1,0 +1,9 @@
+10 time=0
+20 clock 1 : rem start the clock
+30 for i=1to 100
+40 for j=1to 100
+50 k=i*j
+60 next j
+70 next i
+80 clock 0 : rem stop the clock
+90 print time
