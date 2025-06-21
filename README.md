@@ -6,4 +6,6 @@ Due to the changes I've made to the firmware, alas, the object code no longer fi
 <p align="center">MCS-BASIC-52 SBC</p><br>
 <p align="center"><img src="/images/MCS-BASIC-52 SBC.png"/>
 <p align="center">MCS-BASIC-52 SBC</p><br>
+<p align="center"><img src="/images/MCS-BASIC-52.png"/>
+<p align="center">MCS-BASIC-52</p><br>
 
